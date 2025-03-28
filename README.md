@@ -1,2 +1,2 @@
 # Proyectos
-Proyectos de clase
+proyectos de clase.
